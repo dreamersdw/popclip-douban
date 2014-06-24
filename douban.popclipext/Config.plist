@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Actions</key>
+        <array>
+            <dict>
+                <key>Image File</key>
+                <string>douban.png</string>
+                <key>Shell Script File</key>
+                <string>douban.sh</string>
+                <key>Title</key>
+                <string>豆瓣电影</string>
+            </dict>
+        </array>
+        <key>Extension Identifier</key>
+        <string>me.igeeks.douban</string>
+        <key>Extension Name</key>
+        <string>Douban</string>
+        <key>Required Software Version</key>
+        <integer>1</integer>
+    </dict>
+</plist>
